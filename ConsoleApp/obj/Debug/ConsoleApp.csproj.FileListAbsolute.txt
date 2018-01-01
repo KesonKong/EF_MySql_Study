@@ -1,0 +1,14 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\ConsoleApp.exe
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\ConsoleApp.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\obj\Debug\ConsoleApp.exe
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\obj\Debug\ConsoleApp.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\SqlServerModel.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\EntityFramework.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\SqlServerModel.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\EntityFramework.xml
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll

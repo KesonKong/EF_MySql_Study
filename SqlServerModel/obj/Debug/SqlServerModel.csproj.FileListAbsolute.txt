@@ -1,0 +1,11 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\SqlServerModel.dll.config
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\SqlServerModel.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\SqlServerModel.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\EntityFramework.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\EntityFramework.xml
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\obj\Debug\SqlServerModel.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\SqlServerModel\obj\Debug\SqlServerModel.pdb
