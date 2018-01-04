@@ -1,8 +1,9 @@
 ﻿using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 
-namespace SqlServerModel.Model
+namespace MySqlModel.Model
 {
+
     public class CreateDbContent: DbContext
     {
         public DbSet<Dx_User> dx_User { get; set; }

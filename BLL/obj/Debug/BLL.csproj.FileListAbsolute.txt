@@ -1,0 +1,5 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLL\bin\Debug\BLL.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLL\bin\Debug\BLL.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLL\obj\Debug\BLL.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLL\obj\Debug\BLL.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache

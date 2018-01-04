@@ -1,0 +1,12 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\MySqlModel.dll.config
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\MySqlModel.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\MySqlModel.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\EntityFramework.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\EntityFramework.xml
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\obj\Debug\MySqlModel.csprojResolveAssemblyReference.cache
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\obj\Debug\MySqlModel.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\MySqlModel\obj\Debug\MySqlModel.pdb

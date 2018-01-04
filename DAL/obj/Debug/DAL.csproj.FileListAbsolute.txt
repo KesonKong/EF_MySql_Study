@@ -1,0 +1,4 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DAL\bin\Debug\DAL.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DAL\bin\Debug\DAL.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DAL\obj\Debug\DAL.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DAL\obj\Debug\DAL.pdb

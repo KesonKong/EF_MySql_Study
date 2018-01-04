@@ -1,0 +1,4 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLLContainer\bin\Debug\BLLContainer.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLLContainer\bin\Debug\BLLContainer.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLLContainer\obj\Debug\BLLContainer.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\BLLContainer\obj\Debug\BLLContainer.pdb

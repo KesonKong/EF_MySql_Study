@@ -1,0 +1,4 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\IDAL\bin\Debug\IDAL.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\IDAL\bin\Debug\IDAL.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\IDAL\obj\Debug\IDAL.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\IDAL\obj\Debug\IDAL.pdb

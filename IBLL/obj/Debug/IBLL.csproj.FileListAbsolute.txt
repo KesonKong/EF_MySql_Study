@@ -1,0 +1,4 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\IBLL\bin\Debug\IBLL.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\IBLL\bin\Debug\IBLL.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\IBLL\obj\Debug\IBLL.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\IBLL\obj\Debug\IBLL.pdb

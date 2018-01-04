@@ -12,3 +12,5 @@ F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\obj\Debug\ConsoleApp.csprojR
 F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
 F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
 F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\MySql.Data.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\ConsoleApp\bin\Debug\MySql.Data.xml

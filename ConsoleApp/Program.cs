@@ -1,4 +1,4 @@
-﻿using SqlServerModel.Model;
+﻿using MySqlModel.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;

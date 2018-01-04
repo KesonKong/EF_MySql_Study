@@ -1,0 +1,5 @@
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DALContainer\bin\Debug\DALContainer.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DALContainer\bin\Debug\DALContainer.pdb
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DALContainer\obj\Debug\DALContainer.csprojResolveAssemblyReference.cache
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DALContainer\obj\Debug\DALContainer.dll
+F:\ASPNET_学习\EF+MySql\EF_MySql_Study\DALContainer\obj\Debug\DALContainer.pdb
